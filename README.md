@@ -230,7 +230,7 @@
       </a>
       <br/>⎯⎯⎯⎯<br/>
       <strong>Robot Spline</strong><br/>
-      <a href="https://github.com/unfor-dev" target="_blank">Code</a> · 
+      <a href="https://github.com/unfor-dev/Robot-spline" target="_blank">Code</a> · 
       <a href="https://unfor-robot-spline.vercel.app/" target="_blank">Live</a>
     </td>
     <td align="center">
@@ -239,7 +239,7 @@
       </a>
       <br/>⎯⎯⎯⎯<br/>
       <strong>Keyboard AI Spline</strong><br/>
-      <a href="https://github.com/unfor-dev" target="_blank">Code</a> · 
+      <a href="https://github.com/unfor-dev/chat-gpt-3d-spline" target="_blank">Code</a> · 
       <a href="https://unfor-keyboard-ai-spline.vercel.app/" target="_blank">Live</a>
     </td>
     <td align="center">
@@ -259,7 +259,7 @@
       </a>
       <br/>⎯⎯⎯⎯<br/>
       <strong>BG Balls</strong><br/>
-      <a href="https://github.com/unfor-dev" target="_blank">Code</a> · 
+      <a href="https://github.com/unfor-dev/bg-balls" target="_blank">Code</a> · 
       <a href="https://unfor-bg-balls.vercel.app/" target="_blank">Live</a>
     </td>
     <td align="center">
@@ -268,7 +268,7 @@
       </a>
       <br/>⎯⎯⎯⎯<br/>
       <strong>Nodetoy Test</strong><br/>
-      <a href="https://github.com/unfor-dev" target="_blank">Code</a> · 
+      <a href="https://github.com/unfor-dev/nodetoy-test" target="_blank">Code</a> · 
       <a href="https://unfor-nodetoy-test.vercel.app/" target="_blank">Live</a>
     </td>
     <td align="center">
@@ -277,7 +277,7 @@
       </a>
       <br/>⎯⎯⎯⎯<br/>
       <strong>Flag</strong><br/>
-      <a href="https://github.com/unfor-dev" target="_blank">Code</a> · 
+      <a href="https://github.com/unfor-dev/shader-flag" target="_blank">Code</a> · 
       <a href="https://unfor-flag.vercel.app/" target="_blank">Live</a>
     </td>
 </tr>
@@ -288,7 +288,7 @@
       </a>
       <br/>⎯⎯⎯⎯<br/>
       <strong>Animated Galaxy</strong><br/>
-      <a href="https://github.com/unfor-dev" target="_blank">Code</a> · 
+      <a href="https://github.com/unfor-dev/animated-galaxy" target="_blank">Code</a> · 
       <a href="https://unfor-animated-galaxy.vercel.app/" target="_blank">Live</a>
     </td>
     <td align="center">
@@ -297,7 +297,7 @@
       </a>
       <br/>⎯⎯⎯⎯<br/>
       <strong>Hologram</strong><br/>
-      <a href="https://github.com/unfor-dev" target="_blank">Code</a> · 
+      <a href="https://github.com/unfor-dev/Hologram" target="_blank">Code</a> · 
       <a href="https://unfor-hologram.vercel.app/" target="_blank">Live</a>
     </td>
     <td align="center">
@@ -306,7 +306,7 @@
       </a>
       <br/>⎯⎯⎯⎯<br/>
       <strong>Fireworks</strong><br/>
-      <a href="https://github.com/unfor-dev" target="_blank">Code</a> · 
+      <a href="https://github.com/unfor-dev/Fireworks-shader" target="_blank">Code</a> · 
       <a href="https://unfor-fireworks.vercel.app/" target="_blank">Live</a>
     </td>
 </tr>
@@ -317,7 +317,7 @@
       </a>
       <br/>⎯⎯⎯⎯<br/>
       <strong>Half Tone</strong><br/>
-      <a href="https://github.com/unfor-dev" target="_blank">Code</a> · 
+      <a href="https://github.com/unfor-dev/Halftone-Shading" target="_blank">Code</a> · 
       <a href="https://unfor-halftone-shading.vercel.app/" target="_blank">Live</a>
     </td>
     <td align="center">
@@ -413,7 +413,7 @@
       </a>
       <br/>⎯⎯⎯⎯<br/>
       <strong>OglCursor Test</strong><br/>
-      <a href="https://github.com/unfor-dev" target="_blank">Code</a> · 
+      <a href="https://github.com/unfor-dev/ogl-cursor-test" target="_blank">Code</a> · 
       <a href="https://unfor-ogl-cursor-test.vercel.app/" target="_blank">Live</a>
     </td>
     <td align="center">
@@ -433,7 +433,7 @@
       </a>
       <br/>⎯⎯⎯⎯<br/>
       <strong>Music</strong><br/>
-      <a href="https://github.com/unfor-dev" target="_blank">Code</a> · 
+      <a href="https://github.com/unfor-dev/music" target="_blank">Code</a> · 
       <a href="https://unfor-music.vercel.app/" target="_blank">Live</a>
     </td>
     <td align="center">
@@ -549,7 +549,7 @@
       </a>
       <br/>⎯⎯⎯⎯<br/>
       <strong>3D Room Spline</strong><br/>
-      <a href="https://github.com/unfor-dev" target="_blank">Code</a> · 
+      <a href="https://github.com/unfor-dev/room-by-spline" target="_blank">Code</a> · 
       <a href="https://unfor-3d-room-spline.vercel.app/" target="_blank">Live</a>
     </td>
     <td align="center">
@@ -569,6 +569,26 @@
       <strong>Whiskey</strong><br/>
       <a href="https://github.com/unfor-dev/svg-scroll-anim" target="_blank">Code</a> · 
       <a href="https://unfor-whiskey-svg.vercel.app/" target="_blank">Live</a>
+    </td>
+</tr>
+<tr>
+    <td align="center">
+      <a href="https://sphere-particles.vercel.app/" target="_blank">
+        <img src="assets/thumbs/59.jpeg" alt="Sphere Particles">
+      </a>
+      <br/>⎯⎯⎯⎯<br/>
+      <strong>Sphere Particles</strong><br/>
+      <a href="https://github.com/unfor-dev/sphere-particles" target="_blank">Code</a> · 
+      <a href="https://sphere-particles.vercel.app/" target="_blank">Live</a>
+    </td>
+    <td align="center">
+      <a href="https://unfor-hide-find.vercel.app/" target="_blank">
+        <img src="assets/thumbs/58.jpeg" alt="Hide-Find Game">
+      </a>
+      <br/>⎯⎯⎯⎯<br/>
+      <strong>Hide-Find Game</strong><br/>
+      <a href="https://github.com/unfor-dev/Hide-Find-Game" target="_blank">Code</a> · 
+      <a href="https://unfor-hide-find.vercel.app/" target="_blank">Live</a>
     </td>
 </tr>
 </table>

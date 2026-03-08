@@ -58,7 +58,7 @@
       "title": "Half Tone",
       "thumbnail": "assets/thumbs/10.jpeg",
       "liveUrl": "https://unfor-halftone-shading.vercel.app/",
-      "codeUrl": "https://github.com/unfor-dev"
+      "codeUrl": "https://github.com/unfor-dev/Halftone-Shading"
     },
     {
       "title": "Raging Sea",
@@ -70,25 +70,25 @@
       "title": "Fireworks",
       "thumbnail": "assets/thumbs/12.jpeg",
       "liveUrl": "https://unfor-fireworks.vercel.app/",
-      "codeUrl": "https://github.com/unfor-dev"
+      "codeUrl": "https://github.com/unfor-dev/Fireworks-shader"
     },
     {
       "title": "Hologram",
       "thumbnail": "assets/thumbs/13.jpeg",
       "liveUrl": "https://unfor-hologram.vercel.app/",
-      "codeUrl": "https://github.com/unfor-dev"
+      "codeUrl": "https://github.com/unfor-dev/Hologram"
     },
     {
       "title": "Animated Galaxy",
       "thumbnail": "assets/thumbs/14.jpeg",
       "liveUrl": "https://unfor-animated-galaxy.vercel.app/",
-      "codeUrl": "https://github.com/unfor-dev"
+      "codeUrl": "https://github.com/unfor-dev/animated-galaxy"
     },
     {
       "title": "Flag",
       "thumbnail": "assets/thumbs/15.jpeg",
       "liveUrl": "https://unfor-flag.vercel.app/",
-      "codeUrl": "https://github.com/unfor-dev"
+      "codeUrl": "https://github.com/unfor-dev/shader-flag"
     },
     {
       "title": "Galaxy",
@@ -100,13 +100,13 @@
       "title": "Nodetoy Test",
       "thumbnail": "assets/thumbs/17.jpeg",
       "liveUrl": "https://unfor-nodetoy-test.vercel.app/",
-      "codeUrl": "https://github.com/unfor-dev"
+      "codeUrl": "https://github.com/unfor-dev/nodetoy-test"
     },
     {
       "title": "OglCursor Test",
       "thumbnail": "assets/thumbs/18.jpeg",
       "liveUrl": "https://unfor-ogl-cursor-test.vercel.app/",
-      "codeUrl": "https://github.com/unfor-dev"
+      "codeUrl": "https://github.com/unfor-dev/ogl-cursor-test"
     },
     {
       "title": "Xbox",
@@ -130,25 +130,25 @@
       "title": "Robot Spline",
       "thumbnail": "assets/thumbs/22.jpeg",
       "liveUrl": "https://unfor-robot-spline.vercel.app/",
-      "codeUrl": "https://github.com/unfor-dev"
+      "codeUrl": "https://github.com/unfor-dev/Robot-spline"
     },
     {
       "title": "3D Room Spline",
       "thumbnail": "assets/thumbs/23.jpeg",
       "liveUrl": "https://unfor-3d-room-spline.vercel.app/",
-      "codeUrl": "https://github.com/unfor-dev"
+      "codeUrl": "https://github.com/unfor-dev/room-by-spline"
     },
     {
       "title": "Keyboard AI Spline",
       "thumbnail": "assets/thumbs/24.jpeg",
       "liveUrl": "https://unfor-keyboard-ai-spline.vercel.app/",
-      "codeUrl": "https://github.com/unfor-dev"
+      "codeUrl": "https://github.com/unfor-dev/chat-gpt-3d-spline"
     },
     {
       "title": "Music",
       "thumbnail": "assets/thumbs/25.jpeg",
       "liveUrl": "https://unfor-music.vercel.app/",
-      "codeUrl": "https://github.com/unfor-dev"
+      "codeUrl": "https://github.com/unfor-dev/music"
     },
     {
       "title": "Mix Diamond",
@@ -160,7 +160,7 @@
       "title": "BG Balls",
       "thumbnail": "assets/thumbs/27.jpeg",
       "liveUrl": "https://unfor-bg-balls.vercel.app/",
-      "codeUrl": "https://github.com/unfor-dev"
+      "codeUrl": "https://github.com/unfor-dev/bg-balls"
     },
     {
       "title": "Air Jordan Shop",
@@ -341,6 +341,18 @@
       "thumbnail": "assets/thumbs/57.jpeg",
       "liveUrl": "https://unfor-ball-game.vercel.app/",
       "codeUrl": "https://github.com/unfor-dev/Ball-game"
+    },
+    {
+      "title": "Hide-Find Game",
+      "thumbnail": "assets/thumbs/58.jpeg",
+      "liveUrl": "https://unfor-hide-find.vercel.app/",
+      "codeUrl": "https://github.com/unfor-dev/Hide-Find-Game"
+    },
+    {
+      "title": "Sphere Particles",
+      "thumbnail": "assets/thumbs/59.jpeg",
+      "liveUrl": "https://sphere-particles.vercel.app/",
+      "codeUrl": "https://github.com/unfor-dev/sphere-particles"
     }
   ]
 }
