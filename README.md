@@ -17,7 +17,7 @@
 
 <!-- PROJECT-TABLE-START -->
 
-## Works <sup>59</sup> ↘
+## Works <sup>64</sup> ↘
 
 <table>
   <tr>
@@ -589,6 +589,54 @@
       <strong>Hide-Find Game</strong><br/>
       <a href="https://github.com/unfor-dev/Hide-Find-Game" target="_blank">Code</a> · 
       <a href="https://unfor-hide-find.vercel.app/" target="_blank">Live</a>
+    </td>
+    <td align="center">
+      <a href="https://unfor-galaxy-s26-ad-1.vercel.app/" target="_blank">
+        <img src="assets/thumbs/60.jpeg" alt="Samsung Galaxy S26 ADs-1">
+      </a>
+      <br/>⎯⎯⎯⎯<br/>
+      <strong>Samsung Galaxy S26 ADs-1</strong><br/>
+      <a href="https://github.com/unfor-dev/galaxy-s26-ad-1" target="_blank">Code</a> · 
+      <a href="https://unfor-galaxy-s26-ad-1.vercel.app/" target="_blank">Live</a>
+    </td>
+</tr>
+<tr>
+    <td align="center">
+      <a href="https://unfor-galaxy-s26-ad-2.vercel.app/" target="_blank">
+        <img src="assets/thumbs/61.jpeg" alt="Samsung Galaxy S26 ADs-2">
+      </a>
+      <br/>⎯⎯⎯⎯<br/>
+      <strong>Samsung Galaxy S26 ADs-2</strong><br/>
+      <a href="https://github.com/unfor-dev/galaxy-s26-ad-2" target="_blank">Code</a> · 
+      <a href="https://unfor-galaxy-s26-ad-2.vercel.app/" target="_blank">Live</a>
+    </td>
+    <td align="center">
+      <a href="https://unfor-galaxy-s26-ad-3.vercel.app/" target="_blank">
+        <img src="assets/thumbs/61.jpeg" alt="Samsung Galaxy S26 ADs-3">
+      </a>
+      <br/>⎯⎯⎯⎯<br/>
+      <strong>Samsung Galaxy S26 ADs-3</strong><br/>
+      <a href="https://github.com/unfor-dev/galaxy-s26-ad-3" target="_blank">Code</a> · 
+      <a href="https://unfor-galaxy-s26-ad-3.vercel.app/" target="_blank">Live</a>
+    </td>
+    <td align="center">
+      <a href="https://unfor-galaxy-s26-ad-4.vercel.app/" target="_blank">
+        <img src="assets/thumbs/63.jpeg" alt="Samsung Galaxy S26 ADs-4">
+      </a>
+      <br/>⎯⎯⎯⎯<br/>
+      <strong>Samsung Galaxy S26 ADs-4</strong><br/>
+      <a href="https://github.com/unfor-dev/galaxy-s26-ad-4" target="_blank">Code</a> · 
+      <a href="https://unfor-galaxy-s26-ad-4.vercel.app/" target="_blank">Live</a>
+    </td>
+</tr>
+<tr>
+    <td align="center">
+      <a href="https://unfor-building.vercel.app/" target="_blank">
+        <img src="assets/thumbs/64.jpeg" alt="3D Building">
+      </a>
+      <br/>⎯⎯⎯⎯<br/>
+      <strong>3D Building</strong><br/> 
+      <a href="https://unfor-building.vercel.app/" target="_blank">Live</a>
     </td>
 </tr>
 </table>

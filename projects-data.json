@@ -353,6 +353,36 @@
       "thumbnail": "assets/thumbs/59.jpeg",
       "liveUrl": "https://sphere-particles.vercel.app/",
       "codeUrl": "https://github.com/unfor-dev/sphere-particles"
+    },
+    {
+      "title": "Samsung Galaxy S26 ADs-1",
+      "thumbnail": "assets/thumbs/60.jpeg",
+      "liveUrl": "https://unfor-galaxy-s26-ad-1.vercel.app/",
+      "codeUrl": "https://github.com/unfor-dev/galaxy-s26-ad-1"
+    },
+    {
+      "title": "Samsung Galaxy S26 ADs-2",
+      "thumbnail": "assets/thumbs/61.jpeg",
+      "liveUrl": "https://unfor-galaxy-s26-ad-2.vercel.app/",
+      "codeUrl": "https://github.com/unfor-dev/galaxy-s26-ad-2"
+    },
+    {
+      "title": "Samsung Galaxy S26 ADs-3",
+      "thumbnail": "assets/thumbs/62.jpeg",
+      "liveUrl": "https://unfor-galaxy-s26-ad-3.vercel.app/",
+      "codeUrl": "https://github.com/unfor-dev/galaxy-s26-ad-3"
+    },
+    {
+      "title": "Samsung Galaxy S26 ADs-4",
+      "thumbnail": "assets/thumbs/63.jpeg",
+      "liveUrl": "https://unfor-galaxy-s26-ad-4.vercel.app/",
+      "codeUrl": "https://github.com/unfor-dev/galaxy-s26-ad-4"
+    },
+    {
+      "title": "3D Building",
+      "thumbnail": "assets/thumbs/64.jpeg",
+      "liveUrl": "https://unfor-building.vercel.app/",
+      "codeUrl": "https://github.com/unfor-dev/building"
     }
   ]
 }
