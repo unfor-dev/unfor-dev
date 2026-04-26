@@ -612,7 +612,7 @@
     </td>
     <td align="center">
       <a href="https://unfor-galaxy-s26-ad-3.vercel.app/" target="_blank">
-        <img src="assets/thumbs/61.jpeg" alt="Samsung Galaxy S26 ADs-3">
+        <img src="assets/thumbs/62.jpeg" alt="Samsung Galaxy S26 ADs-3">
       </a>
       <br/>⎯⎯⎯⎯<br/>
       <strong>Samsung Galaxy S26 ADs-3</strong><br/>
