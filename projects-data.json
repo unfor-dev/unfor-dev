@@ -383,6 +383,12 @@
       "thumbnail": "assets/thumbs/64.jpeg",
       "liveUrl": "https://unfor-building.vercel.app/",
       "codeUrl": "https://github.com/unfor-dev/building"
+    },
+    {
+      "title": "Polish-Design",
+      "thumbnail": "assets/thumbs/65.jpeg",
+      "liveUrl": "https://unfor-polish-design.vercel.app/",
+      "codeUrl": "https://github.com/unfor-dev/Polish-Design"
     }
   ]
 }
